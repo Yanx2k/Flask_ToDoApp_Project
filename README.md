@@ -1,1 +1,1 @@
-A Simple To Do App using Flask using Python 3.12
+A Simple To Do App using HTML, CSS and Flask (Python 3.12)
